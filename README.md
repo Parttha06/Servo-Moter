@@ -7,7 +7,7 @@ A project that controls a servo motor's position using a potentiometer. Rotating
 ## 📸 Circuit Photo
 
 <!-- Replace the path below with your actual Tinkercad screenshot -->
-![Circuit Screenshot](<img width="1507" height="627" alt="image" src="https://github.com/user-attachments/assets/2152b305-c081-4ebb-a60c-6b87ac02f348" />
+![Circuit Screenshot](https://github.com/user-attachments/assets/2152b305-c081-4ebb-a60c-6b87ac02f348
 )
 
 ---
